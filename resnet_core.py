@@ -1,4 +1,4 @@
-# Created by: [YOUR NAME], Sydney, Matthew
+#Sydney & Matthew W.
 # Group: Model Architects
 # Branch: resnet-core
 
