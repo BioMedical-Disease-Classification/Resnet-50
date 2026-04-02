@@ -1,5 +1,5 @@
 #Sydney & Matthew W.
-# Group: Model Architects
+# Group: ResNet-Core
 # Branch: resnet-core
 
 import torch
