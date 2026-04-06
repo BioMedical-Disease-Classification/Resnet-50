@@ -1,0 +1,11 @@
+# Ignore the massive 2GB dataset and zip file
+data/
+*.zip
+
+# Ignore Python's temporary cache files
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
